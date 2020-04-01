@@ -1,2 +1,3 @@
-Here is a GUI of ludo game with usage pygame 
+Here is a GUI of ludo game with usage pygame module :pygame ludo.py
 In which we have used pygame.draw fuction to draw the GUI of a simple game
+here is GUI of ludo game with turtle module : ludo.py
